@@ -6,6 +6,6 @@ Prefix your vendor namespaces automatically during Composer install by providing
 ```
 steps:
 - name: Run Composer install with PHP-Scoper
-  uses: pxlrbt/action-composer-php-scoper@v1
+  uses: pxlrbt/action-composer-php-scoper@1.0
 
 ```
