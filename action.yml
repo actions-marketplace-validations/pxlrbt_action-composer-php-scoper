@@ -1,4 +1,4 @@
-name: 'composer-php-scoper'
+name: 'Composer PHP-Scoper'
 description: 'Runs composer with PHP-Scoper installed.'
 inputs:
   action:
