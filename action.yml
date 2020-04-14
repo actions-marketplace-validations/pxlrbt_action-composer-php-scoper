@@ -12,7 +12,6 @@ runs:
   using: 'docker'
   image: 'Dockerfile'
   args:
-    - composer
     - ${{ inputs.action }}
     - ${{ inputs.options }}
 branding:
