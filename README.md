@@ -12,8 +12,8 @@ steps:
 
 ## Changelog
 
-# 1.1
+### 1.1
 - PhpScoper 0.14.0 (PHP 8 Support)
-# 1.0
+### 1.0
 - Initial release
 - PhpScoper 0.13.9
